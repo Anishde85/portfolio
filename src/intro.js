@@ -42,7 +42,7 @@ function intro() {
         </div>
         <About
           title={nl2br("Hello, I am Anish De")}
-          text={nl2br("Full Stack Web Developer | Front end Android Developer | Machine Learning enthusiast \n Competitive Coder")}
+          text={nl2br("Competitive Coder | Full Stack Web Developer | Front end Android Developer \n Machine Learning enthusiast")}
           link="https://www.linkedin.com/in/anish-de-1b090a193/"
           link1="https://github.com/Anishde85"
         />

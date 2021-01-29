@@ -15,8 +15,8 @@ function Explore() {
                 <Navigation>
                     <Link to="/" style={{color: col, "font-weight": 'bold', fontFamily:"Oxygen", fontSize:'125%'}}>ABOUT ME</Link>
                     <Link to="/edu" style={{color: col, "font-weight": 'bold', fontFamily:"Oxygen", fontSize:'125%'}}>EDUCATION</Link>
-                    <Link to="/projects" style={{color: col, "font-weight": 'bold', fontFamily:"Oxygen", fontSize:'125%'}}>PROJECTS</Link>
                     <Link to="/cp" style={{color: col, "font-weight": 'bold', fontFamily:"Oxygen", fontSize:'125%'}}>COMPETITIVE PROGRAMMING</Link>
+                    <Link to="/projects" style={{color: col, "font-weight": 'bold', fontFamily:"Oxygen", fontSize:'125%'}}>PROJECTS</Link>
                 </Navigation>
         </Header>
         <Drawer style={{backgroundColor:'#c6fced',"text-align":'left'}} title={<font face = "Arial Black">My Sections</font>}>
