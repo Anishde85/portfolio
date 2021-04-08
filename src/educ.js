@@ -8,8 +8,8 @@ import { Navbar , Nav} from 'react-bootstrap';
 import Explore from './explore.js';
 import {Layout, Header, Navigation, Drawer, Content} from 'react-mdl';
 function Education(props) {
-  return(<div className="card col-md-5">
-  <div className="card-body">
+  return(<div className="card1 col-md-5">
+  <div className="card-body2">
   <img src={props.imge} class="img" alt={props.alt}/>
   <h5 className="card-title title">{props.title}</h5>
   <p className="card-text text">{props.text}</p>
@@ -18,8 +18,8 @@ function Education(props) {
   </div>); 
 }
 function Education1(props) {
-  return(<div className="card col-md-5">
-  <div className="card-body">
+  return(<div className="card1 col-md-5">
+  <div className="card-body2">
   <img src={props.imge} class="img1" alt={props.alt}/>
   <h5 className="card-title title">{props.title}</h5>
   <p className="card-text text">{props.text}</p>

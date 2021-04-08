@@ -14,7 +14,7 @@ const cplist=[
         web:"https://www.iiests.ac.in/",
         img: iiest,
         title:nl2br("Bachelor of Technology (2019 - present) \n Computer Science and Technology"),
-        text:"CGPA (Till 2nd sem) - 9.23",
+        text:"CGPA (Till 3rd sem) - 9.21",
     },
 
 ]

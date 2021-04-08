@@ -7,11 +7,11 @@ import { Navbar , Nav} from 'react-bootstrap';
 import Explore from './explore.js'
 import {Layout, Header, Navigation, Drawer, Content} from 'react-mdl';
 function Cp(props) {
-  return(<div className="card col-md-5 col-sm-12">
+  return(<div className="card col-12">
   <div className="card-body">
   <img src={props.imge} alt={props.alt}/>
   <h5 className="card-title title">{props.title}</h5>
-  <img src={props.text} className="card-img-top" alt={props.alt}/>
+  <h6 className="list1">{props.text}</h6>
   <h2><a class="links" href={props.link}><i className="fa fa-code"></i></a></h2>
   </div>
   </div>); 

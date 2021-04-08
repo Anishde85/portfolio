@@ -9,7 +9,7 @@ import {Layout, Header, Navigation, Drawer, Content} from 'react-mdl';
 import { Navbar , Nav} from 'react-bootstrap';
 import Explore from './explore.js';
 function Projects(props) {
-  return(<div className="card col-md-5 col-sm-12">
+  return(<div className="card col-12">
   <div className="card-body">
   <img src={props.imge} className="card-img-top" alt={props.alt}/>
   <h5 className="card-title title">{props.title}</h5>
