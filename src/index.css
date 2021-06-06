@@ -17,6 +17,13 @@ code {
   width:150px !important;
   height: 10% !important;
 }
+.card2{
+  background-color:rgb(177, 206, 207) !important;
+  margin: 2.5% 2.5% 2.5% 2.5%;
+  padding-right: 35px !important;
+  width:300px !important;
+  height: 10% !important;
+}
 .card1{
   background-color:rgb(177, 206, 207) !important;
   margin: 2.5% 2.5% 2.5% 5%;
@@ -58,6 +65,11 @@ h4{
 h5{
   font-family: cursive !important;
   color:blueviolet!important;
+}
+.intern{
+  padding-top: 10px;
+  font-family: cursive !important;
+  color:#21094e!important;
 }
 .upd{
   text-align: end;

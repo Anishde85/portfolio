@@ -17,6 +17,7 @@ function Explore() {
                     <Link to="/edu" style={{color: col, "font-weight": 'bold', fontFamily:"Oxygen", fontSize:'125%'}}>EDUCATION</Link>
                     <Link to="/cp" style={{color: col, "font-weight": 'bold', fontFamily:"Oxygen", fontSize:'125%'}}>COMPETITIVE PROGRAMMING</Link>
                     <Link to="/projects" style={{color: col, "font-weight": 'bold', fontFamily:"Oxygen", fontSize:'125%'}}>PROJECTS</Link>
+                    <Link to="/experience" style={{color: col, "font-weight": 'bold', fontFamily:"Oxygen", fontSize:'125%'}}>EXPERIENCE</Link>
                     <a href="https://drive.google.com/file/d/1Aw-CUM1d0S2DBVRSplLpk2CVOwgSl9Q_/view?usp=sharing" style={{color: col, "font-weight": 'bold', fontFamily:"Oxygen", fontSize:'125%'}}>RESUME</a>
                 </Navigation>
         </Header>
@@ -26,6 +27,7 @@ function Explore() {
                     <Link to="/edu" style={{color: col, "font-weight": 'bold', fontFamily:"Oxygen", fontSize:'100%'}}>EDUCATION</Link>
                     <Link to="/cp" style={{color: col, "font-weight": 'bold', fontFamily:"Oxygen", fontSize:'100%'}}>COMPETITIVE PROGRAMMING</Link>
                     <Link to="/projects" style={{color: col, "font-weight": 'bold', fontFamily:"Oxygen", fontSize:'100%'}}>PROJECTS</Link>
+                    <Link to="/experience" style={{color: col, "font-weight": 'bold', fontFamily:"Oxygen", fontSize:'100%'}}>EXPERIENCE</Link>
                     <a href="https://drive.google.com/file/d/1Aw-CUM1d0S2DBVRSplLpk2CVOwgSl9Q_/view?usp=sharing" style={{color: col, "font-weight": 'bold', fontFamily:"Oxygen", fontSize:'100%'}}>RESUME</a>
           </Navigation>
         </Drawer>
